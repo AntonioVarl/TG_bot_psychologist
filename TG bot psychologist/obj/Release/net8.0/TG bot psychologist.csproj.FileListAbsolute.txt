@@ -1,0 +1,31 @@
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\TG bot psychologist.exe
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\AppSettings\app_settings.json
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\AppSettings\secrets.json
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\TG bot psychologist.deps.json
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\TG bot psychologist.runtimeconfig.json
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\TG bot psychologist.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\TG bot psychologist.pdb
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\OpenAI.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\bin\Release\net8.0\Telegram.Bot.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.csproj.AssemblyReference.cache
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.AssemblyInfoInputs.cache
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.AssemblyInfo.cs
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.csproj.CoreCompileInputs.cache
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.csproj.CopyComplete
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\refint\TG bot psychologist.dll
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.pdb
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\TG bot psychologist.genruntimeconfig.cache
+C:\Users\Tony\RiderProjects\TG_bot_psychologist\TG bot psychologist\obj\Release\net8.0\ref\TG bot psychologist.dll
